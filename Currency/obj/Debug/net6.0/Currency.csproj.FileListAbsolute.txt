@@ -1,0 +1,12 @@
+C:\Users\OMEN\source\repos\Currency\Currency\bin\Debug\net6.0\Currency.deps.json
+C:\Users\OMEN\source\repos\Currency\Currency\bin\Debug\net6.0\Currency.dll
+C:\Users\OMEN\source\repos\Currency\Currency\bin\Debug\net6.0\Currency.pdb
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.dll
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\refint\Currency.dll
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\Currency.pdb
+C:\Users\OMEN\source\repos\Currency\Currency\obj\Debug\net6.0\ref\Currency.dll
